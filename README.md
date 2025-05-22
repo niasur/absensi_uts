@@ -1,7 +1,11 @@
 **Nama: Nia Surniati**
+
 **NIM: 2022804102**
+
 **Prodi: Sistem Informasi**
+
 **Semester: 6**
+
 **Kelas: A - Pagi**
 
 ---
