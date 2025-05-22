@@ -1,8 +1,8 @@
-# Nama: Nia Surniati
-# NIM: 2022804102
-# Prodi: Sistem Informasi
-# Semester: 6
-# Kelas: A - Pagi
+**Nama: Nia Surniati**
+**NIM: 2022804102**
+**Prodi: Sistem Informasi**
+**Semester: 6**
+**Kelas: A - Pagi**
 
 ---
 
@@ -11,10 +11,10 @@
 Aplikasi Flutter yang dibuat sebagai tugas **Ujian Tengah Semester (UTS)** untuk mata kuliah Mobile Programming dengan teknologi deteksi wajah dalam sistem absensi digital.  
 Aplikasi ini menekankan **kreativitas**, **desain UI/UX**, dan **struktur kode yang modular dan efisien**.
 
-> Aplikasi absensi digital yang memanfaatkan teknologi deteksi wajah menggunakan Google ML Kit.  
-> Cocok untuk absensi karyawan, mahasiswa, atau keperluan kehadiran lainnya.  
-> Memiliki tiga menu utama: absensi dengan selfie (face detection), pengajuan cuti/izin/sakit, dan riwayat absensi.  
-> Menggunakan Firebase sebagai penyimpanan data real-time.
+> -Aplikasi absensi digital yang memanfaatkan teknologi deteksi wajah menggunakan Google ML Kit.  
+> -Cocok untuk absensi karyawan, mahasiswa, atau keperluan kehadiran lainnya.  
+> -Memiliki tiga menu utama: absensi dengan selfie (face detection), pengajuan cuti/izin/sakit, dan riwayat absensi.  
+> -Menggunakan Firebase sebagai penyimpanan data real-time.
 
 ---
 
@@ -62,4 +62,4 @@ Berikut tampilan dari absensi app:
 
 ---
 
-#Terima kasih
+# Terima kasih
